@@ -44,7 +44,7 @@ A user-friendly design is very important for any booking system. This is because
 It is very important to identify and document the properties of a mock up because it ensures design consistency accross all platforms and pages that the users will be viewing. It also makes communication easier between the designers and developers, so there will be no misinterpretations of certain properties in the design. With consistency and clear comminication in place, the website/app will be developed faster with reusable components. 
 
 ## Project Roles and Responsibilities
- ### Project Manager:
+ ### Project Manager
     The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
   
    **Key Responsibilities:**
@@ -54,7 +54,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Identify and mitigate risks.
 - Serve as the primary point of contact for stakeholders.
 
- ### Frontend Developers:
+ ### Frontend Developers
     Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
     
    **Key Responsibilities:**
@@ -64,7 +64,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Collaborate with designers to create visually appealing interfaces.
 - Optimize the application for maximum speed and scalability.
   
- ### Backend Developers :
+ ### Backend Developers 
     Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
 
    **Key Responsibilities:**
@@ -74,7 +74,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Implement security and data protection measures.
 - Optimize server performance and scalability.
 
- ### Designers :
+ ### Designers 
     Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
 
   **Key Responsibilities:**
@@ -84,7 +84,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Collaborate with frontend developers to implement designs.
 - Conduct usability testing to gather feedback and improve designs.
 
- ### QA/Testers :
+ ### QA/Testers 
     QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
 
   **Key Responsibilities:**
@@ -94,7 +94,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Verify bug fixes and perform regression testing.
 - Ensure the application meets quality standards and user requirements.
 
- ### DevOps Engineers:
+ ### DevOps Engineers
     DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
 
  **Key Responsibilities:**
@@ -104,7 +104,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Implement continuous integration and continuous deployment (CI/CD) pipelines.
 - Ensure security and compliance in the production environment.
 
- ### Product Owner (PO):
+ ### Product Owner (PO)
     The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
 
    **Key Responsibilities:**
@@ -114,7 +114,7 @@ It is very important to identify and document the properties of a mock up becaus
 - Ensure the product delivers value to users and aligns with business goals.
 - Make decisions on scope and accept completed work.
 
- ### Scrum Master:
+ ### Scrum Master
     The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
 
   **Key Responsibilities:**
